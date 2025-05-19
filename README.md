@@ -6,6 +6,6 @@ Each scrape includes a **timestamp column** to track when the data was last upda
 
 ### **Key Features**  
 **Automated API Scraping** – Fetches real-time or historical crypto data.  
-**Timestamp Tracking** – Adds a `last_updated` column to record scrape time.  
+**Timestamp Tracking** – Adds a timestamp column to record scrape time.  
 **Data Storage** – Saves results in **CSV, JSON** (configurable).    
 **Scheduling Support** – Can be run manually or scheduled.  
