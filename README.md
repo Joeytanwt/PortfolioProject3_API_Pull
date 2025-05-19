@@ -1,7 +1,7 @@
 # **Crypto API  Scraper**  
 
 ## **Project Overview**
-This project automates the extraction of cryptocurrency market data from a public API: https://coinmarketcap.com/api/ 
+This project automates the extraction of cryptocurrency market data from a public API: https://coinmarketcap.com/api/ \
 Each scrape includes a **timestamp column** to track when the data was last updated, making it useful for time-series analysis, monitoring trends, or building a historical dataset.  
 
 ### **Key Features**  
